@@ -13,11 +13,6 @@
   </a>
 </div>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Bvso29.Bvso29&"  />
-</div>
 
 ###
 
@@ -83,16 +78,6 @@
 ###
 
 <h3 align="left">🎯 Objetivos 2024</h3>
-
-###
-
-<p align="left">
-- 💻 Aprofundar conhecimentos em React e Node.js<br>
-- 📱 Desenvolver aplicações mobile com React Native<br>
-- 🚀 Contribuir mais em projetos open source<br>
-- 📚 Estudar novas tecnologias e frameworks<br>
-- 🌐 Criar projetos que impactem positivamente a comunidade
-</p>
 
 ###
 
