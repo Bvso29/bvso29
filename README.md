@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
 ###
@@ -82,24 +82,20 @@
 
 ###
 
-<h3 align="left">🐍 Contribuições</h3>
+<h3 align="left">🎯 Objetivos 2024</h3>
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Bvso29/Bvso29/output/snake.svg" alt="Snake animation" />
-</div>
+<p align="left">
+- 💻 Aprofundar conhecimentos em React e Node.js<br>
+- 📱 Desenvolver aplicações mobile com React Native<br>
+- 🚀 Contribuir mais em projetos open source<br>
+- 📚 Estudar novas tecnologias e frameworks<br>
+- 🌐 Criar projetos que impactem positivamente a comunidade
+</p>
 
 ###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Bvso29/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://spotify-recently-played-readme.vercel.app/api?user=SEU_SPOTIFY_USER">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=SEU_SPOTIFY_USER" alt="Spotify recently played"  />
-  </a>
 </div>
